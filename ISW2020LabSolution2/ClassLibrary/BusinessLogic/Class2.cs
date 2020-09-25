@@ -8,5 +8,7 @@ namespace ClassLibrary.BusinessLogic
     {
         //Javier fixed this class in bug-fix branch
 
+
+        // Tom is adding code to Class 2 in the master branch
     }
 }
