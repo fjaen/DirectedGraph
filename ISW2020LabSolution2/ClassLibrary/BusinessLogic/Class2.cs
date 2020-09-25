@@ -6,5 +6,7 @@ namespace ClassLibrary.BusinessLogic
 {
     class Class2
     {
+        //Javier fixed this class in bug-fix branch
+
     }
 }
