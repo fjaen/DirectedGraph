@@ -11,5 +11,7 @@ namespace ClassLibrary.BusinessLogic
 
         // Tom is adding code to Class 2 in the master branch
         //Javier updates Class 2 in the bug-fix-branch
+
+        // new update made to this class
     }
 }
