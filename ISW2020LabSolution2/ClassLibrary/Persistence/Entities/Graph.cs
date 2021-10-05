@@ -17,13 +17,15 @@ namespace DirectedGraph.Entities
             set;
         }        
 
-        public ICollection<Node> Nodes
+        //cardinality n
+        public virtual ICollection<Node> Nodes
         {
             get;
             set;
         }
-
-        public ICollection<Edge> Edges
+        
+        //cardinality n
+        public virtual ICollection<Edge> Edges
         {
             get;
             set;

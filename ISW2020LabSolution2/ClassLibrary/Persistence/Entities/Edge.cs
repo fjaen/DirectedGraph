@@ -11,14 +11,14 @@ namespace DirectedGraph.Entities
             get;
             set;
         }
-
-        public Node Source
+        //cardinality 1
+        public virtual Node Source
         {
             get;
             set;
         }
-
-        public Node Destination
+        //cardinality 1
+        public virtual Node Destination
         {
             get;
             set;

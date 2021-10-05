@@ -11,12 +11,16 @@ namespace DirectedGraph.Entities
             get;
             set;
         }
-        public ICollection<Edge> SourceEdges
+
+        //cardinality n
+        public virtual ICollection<Edge> SourceEdges
         {
             get;
             set;
         }
-        public ICollection<Edge> DestinationEdges
+
+        //cardinality n
+        public virtual ICollection<Edge> DestinationEdges
         {
             get;
             set;
